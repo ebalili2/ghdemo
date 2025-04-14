@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GHDemo.props" />
+</Project>

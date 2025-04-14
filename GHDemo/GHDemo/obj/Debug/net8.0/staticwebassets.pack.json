@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Playground\\ghdemo\\GHDemo\\GHDemo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GHDemo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GHDemo.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Playground\\ghdemo\\GHDemo\\GHDemo\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Playground\\ghdemo\\GHDemo\\GHDemo\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Playground\\ghdemo\\GHDemo\\GHDemo\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Playground\\ghdemo\\GHDemo\\GHDemo\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GHDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GHDemo.props",
+      "PackagePath": "build\\GHDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GHDemo.props",
+      "PackagePath": "buildMultiTargeting\\GHDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GHDemo.props",
+      "PackagePath": "buildTransitive\\GHDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
